@@ -2,7 +2,7 @@
 
 ## Joy of React, Project I
 
-In this project, we'll recreate a popular online word game, Wordle:
+In this project, I will recreate a popular online word game, Wordle:
 
 ![Demo showing the finished product, our Wordle clone](docs/wordle-demo.gif)
 
