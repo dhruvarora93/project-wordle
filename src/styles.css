@@ -161,6 +161,10 @@ h1 {
   outline-offset: 4px;
 }
 
+.guess-input-wrapper input:invalid {
+  border: red solid 3px;
+}
+
 .banner {
   position: fixed;
   left: 0;
